@@ -1,0 +1,11 @@
+#############
+## Libraries
+#############
+
+# Vendor
+vendor/*/*/*
+!vendor/ua-parser/*/src/
+
+# Common files
+!README.md
+!LICENSE*

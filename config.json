@@ -1,0 +1,10 @@
+{
+    "ua": [
+        "family",
+        "major"
+    ],
+    "browser": [
+        "family",
+        "major"
+    ]
+}
